@@ -1,0 +1,15 @@
+.Profile-Menu-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    margin-top: 30px;
+}
+
+.Profile-Link {
+    text-decoration: none;
+
+    font-family: Helvetica, sans-serif;
+
+    color: #505050;
+}

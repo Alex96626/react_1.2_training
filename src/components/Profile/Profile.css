@@ -1,0 +1,13 @@
+.Profile {
+    box-sizing: border-box;
+
+    max-width: 375px;
+
+    padding-bottom: 50px;
+
+    background-color: #fff;
+}
+
+.Profile-Content {
+    padding: 0 20px;
+}

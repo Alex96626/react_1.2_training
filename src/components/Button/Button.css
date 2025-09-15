@@ -1,0 +1,38 @@
+.Profile-Button {
+    background-color: transparent;
+
+    border: none;
+
+    color: #fff;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+
+.Profile-Button_theme_primary {
+    width: 100%;
+
+    padding: 15px;
+
+    margin-top: 50px;
+
+    background-color: #f66d6d;
+
+    box-shadow: 2px 13px 15px -9px #f66d6d;
+}
+
+.Profile-Button_theme_back {
+    font-size: 0;
+}
+
+.Profile-Button_theme_edit {
+    width: 40px;
+    height: 40px;
+
+    position: absolute;
+    right: -10px;
+    bottom: 12px;
+
+    background: #c571f8;
+}
